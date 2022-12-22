@@ -4,9 +4,9 @@ The following data have been quality controlled, see: *Horsnell, Wright et al. (
 
 The repository contains the following files:
 - `dataset.map.csv` the physical positions for 11,074 SNP markers
-- `dataset.1.NAM.mapped.csv` the genotypes across 11,074 markers for 2670 SHW NAM individuals  
-- `dataset.1.NAM.mapped.with.parents.csv`the genotypes across 11,074 markers for 2670 SHW NAM individuals + 55 primary SHW parents and Robigus
+- `dataset.1.NAM.mapped.csv` the genotypes across 11,074 markers for 2637 SHW NAM individuals  
+- `dataset.1.NAM.mapped.with.parents.csv`the genotypes across 11,074 markers for 2637 SHW NAM individuals + 54 primary SHW parents and Robigus
 - `dataset.2.NAM.mapped.skim100` is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) of 1
 - `dataset.3.NAM.mapped.skim70`  is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) above 0.7
 
-An article promted me to store data in this way, saving it [here](https://www.r-bloggers.com/2012/06/data-on-github-the-easy-way-to-make-your-data-available) for future reference.  
+  
