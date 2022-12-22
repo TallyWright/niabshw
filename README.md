@@ -10,3 +10,6 @@ The repository contains the following files:
 - `dataset.3.NAM.mapped.skim70`  is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) above 0.7
 
   
+The data can be downloaded [here.](https://github.com/TallyWright/niabshw/raw/main/Data/Data.zip)
+
+
