@@ -8,7 +8,7 @@ The repository contains the following files:
 - `dataset.1.NAM.mapped.with.parents.csv`the genotypes across 11,074 markers for 2637 SHW NAM individuals + 54 primary SHW parents and Robigus
 - `dataset.2.NAM.mapped.skim100` is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) of 1
 - `dataset.3.NAM.mapped.skim70`  is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) above 0.7
-- 'dataset.4.NAM.mapped.skim95' is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) above 0.95
+- `dataset.4.NAM.mapped.skim95` is `dataset.1.NAM.mapped.csv` skimmed to remove markers with an absolute Pearson correlation (r) above 0.95
 
   
 The data can be downloaded [here.](https://github.com/TallyWright/niabshw/raw/main/Data/Data.zip)
